@@ -6,7 +6,7 @@ __pycache__/
 # Directories
 data
 garbage
-
+saved_weights
 # C extensions
 *.so
 
