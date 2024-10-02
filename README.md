@@ -102,10 +102,3 @@ Once trained, the model can be used to generate visually consistent transformati
 | **Original Image (Normal)** | **Transformed Image (Ocean)** |
 | --------------------------- | ---------------------------- |
 | ![normal_image](./images/test.jpg) | ![ocean_image](./images/translated_image.jpg) |
-
-## Contributing
-
-Feel free to fork this repository, open issues, and submit pull requests to improve the codebase. Contributions are always welcome!
-
-## Acknowledgments
-This implementation is inspired by the original CycleGAN paper: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593).
